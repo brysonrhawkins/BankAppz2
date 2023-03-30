@@ -1,0 +1,28 @@
+.app-container{
+    background-color: #fff;
+
+}
+
+.app-title {
+    color: #333;
+    width: 30vw;
+    margin: 0 auto;
+}
+
+.app-intro {
+    color: #333;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.app-outro {
+    color: #333;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.app-closing {
+    color: #333;
+    width: 70vw;
+    margin: 0 auto;
+}
